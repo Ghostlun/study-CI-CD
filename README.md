@@ -7,3 +7,8 @@ CD: 지속적인 배포,
 ## 목표: 자동 테스트 및 자동 배포.
 
 ### React.js 통한 CI/CD 구축하기
+
+### Required 장치들
+- JTest <Testing purpose>
+- Firebase Deploy Tool
+- Github Action <Automation WorkFlow>
